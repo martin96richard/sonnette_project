@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\devdotnet\devdotnet1\conversation\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-04T16:13:16.0738734Z;True|2022-03-04T16:54:15.4477156+01:00;True|2022-03-04T16:31:09.6087627+01:00;</History>
+  </PropertyGroup>
+</Project>

@@ -9,6 +9,8 @@
 
     <ItemGroup>
       <PackageReference Include="Iot.Device.Bindings" Version="2.1.0" />
+        <PackageReference Include="stateless" Version="5.11.0" />
+        <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
     </ItemGroup>
 
 </Project>

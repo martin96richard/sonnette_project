@@ -1,0 +1,8 @@
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/Sonnette.chat
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/appsettings.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/libman.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/Sonnette.chat.dll
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/Sonnette.chat.deps.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/Sonnette.chat.runtimeconfig.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Debug/net6.0/publish/Sonnette.chat.pdb

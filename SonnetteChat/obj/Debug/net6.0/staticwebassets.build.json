@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "SbTzVPvlYEO5sWJ+wSKlks9e+566nw6B4ER/X9aIhn4=",
+  "Source": "SonnetteChat",
+  "BasePath": "_content/SonnetteChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SonnetteChat/wwwroot",
+      "Source": "SonnetteChat",
+      "ContentRoot": "/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/SonnetteChat/wwwroot/",
+      "BasePath": "_content/SonnetteChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/SonnetteChat/wwwroot/js/chat.js",
+      "SourceId": "SonnetteChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/SonnetteChat/wwwroot/",
+      "BasePath": "_content/SonnetteChat",
+      "RelativePath": "js/chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/chat.js"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Sonnette.chat
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/appsettings.Development.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/appsettings.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/libman.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Sonnette.chat.dll
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Sonnette.chat.deps.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Sonnette.chat.runtimeconfig.json
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Sonnette.chat.pdb
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/RICHAR_M/ESAIP/IOT/C#_NET/projects/Sonnette/conversation/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,8 @@
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\Sonnette.chat.exe
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\libman.json
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\Sonnette.chat.dll
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\Sonnette.chat.deps.json
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\Sonnette.chat.runtimeconfig.json
+E:\devdotnet\devdotnet1\conversation\obj\Release\net6.0\PubTmp\Out\Sonnette.chat.pdb
